@@ -1,0 +1,20 @@
+{
+  "name": "sl-my-first-npm-package",
+  "version": "1.0.0",
+  "description": "learning how to publish my first npm",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first-npm-package"
+  ],
+  "author": "Sony Lao",
+  "license": "ISC",
+  "dependencies": {
+    "sl-my-first-npm-package": "^1.0.0"
+  }
+}
